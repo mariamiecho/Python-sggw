@@ -1,1 +1,5 @@
-print("HEllo git!")
+import time
+print(time.time())
+
+
+#git status
