@@ -1,6 +1,4 @@
-import time
-print(time.time())
-
+print("tu bedzie nowa apka we flasku")
 #git clone
 #git log ?
 #git status ?
@@ -8,3 +6,4 @@ print(time.time())
 #git add main.py
 #git commit -m ""
 #git push origin main
+#git check out - zeqby zmienić albo sworzyć (-b) nowy branch
